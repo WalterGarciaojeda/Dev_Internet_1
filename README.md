@@ -8,7 +8,7 @@ Este sitio web es parte del material de apoyo para la materia *Programación par
 -**Recursos y herramientas*: Listado de recursos recomendados para aprender programación para windows.
 
 ##Cómo ver el sitio
-Visita la página del proyecto aquí: [Desarrollo para internet](https:/WalterGarciaojeda/.github.io/Dev_Internet_1/)
+Visita la página del proyecto aquí: [Desarrollo para internet](https://waltergarciaojeda.github.io/Dev_Internet_1/)
 
 ## Tecnologías utilizadas
 -**hTHL** para la estructura del sitio.
