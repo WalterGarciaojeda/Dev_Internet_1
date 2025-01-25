@@ -11,9 +11,9 @@ Este sitio web es parte del material de apoyo para la materia *Programación par
 Visita la página del proyecto aquí: [Desarrollo para internet](https:/WalterGarciaojeda/.github.1to/Dev_Internet_1/)
 
 ## Tecnologías utilizadas
-**hTHL** para la estructura del sitio.
-*CS5* para el diseño y estilos.
-*GitHub Pages* para el alojamiento.
+-**hTHL** para la estructura del sitio.
+-**CS5** para el diseño y estilos.
+-**GitHub Pages** para el alojamiento.
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si tienes sugerencias o mejoras, abre un issue o haz un pull request.
